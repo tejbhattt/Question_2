@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="switchSound" type="id" />
+    <item name="switchVibration" type="id" />
+    <item name="switchLED" type="id" />
+    <item name="switchBanners" type="id" />
+    <item name="switchContent" type="id" />
+    <item name="switchLockScreen" type="id" />
+    <item name="switchDoNotDisturb" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="btnConfirm" type="id" />
+    <item name="btnCancel" type="id" />
+</resources>
